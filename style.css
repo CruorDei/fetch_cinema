@@ -1,4 +1,8 @@
-body {
+body{
+    background-color: black;
+}
+
+section {
     font-family: Arial, sans-serif;
     margin: 20px;
     display: flex;
